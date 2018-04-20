@@ -1,4 +1,4 @@
-From 373264d3edb77a0f233d1691b73c366663930c85 Mon Sep 17 00:00:00 2001
+From d5ebee82e751afb3f2ffd4cf1da34cda88bd75d3 Mon Sep 17 00:00:00 2001
 From: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
 Date: Fri, 17 Feb 2017 21:29:10 +0900
 Subject: [PATCH] remove smach_viewer, which is not released on kinetic
@@ -8,7 +8,7 @@ Subject: [PATCH] remove smach_viewer, which is not released on kinetic
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/package.xml b/package.xml
-index f001542..c07034b 100644
+index 0472387..a24e8a3 100644
 --- a/package.xml
 +++ b/package.xml
 @@ -22,7 +22,7 @@
@@ -21,5 +21,5 @@ index f001542..c07034b 100644
    <test_depend>rostest</test_depend>
    <!-- <test_depend>pddl_planner</test_depend> -->
 -- 
-1.9.0
+2.17.0
 
